@@ -1,0 +1,21 @@
+.list-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  } 
+
+  .list-img{
+    border-radius: 50%;
+  }
+
+  .list-name{
+    margin-left: 15px;
+  }
+
+  .list-age{
+    margin-left: 15px;
+  }
+
+  .list-note{
+    margin-left: 15px;
+  }
